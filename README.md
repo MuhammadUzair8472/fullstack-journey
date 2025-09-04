@@ -1,2 +1,5 @@
-# fullstack-journey
-📒 My day-to-day documentation of learning Full Stack Development with Rohit Negi bhaiya on Coder Army channel. This repo contains notes, practice code, and progress updates from my MERN Stack journey.
+# 🚀 MERN Stack Developer Journey  
+
+This repository documents my **day-to-day learning journey** of becoming a **Full Stack / MERN Stack Developer** with guidance from **Encoder Bytes Pvt Ltd)**.  
+It contains **lecture notes, practice code** for each day of the course.  
+
